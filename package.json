@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/graingert/eslint-config-plugin-mocha#readme",
   "peerDependencies": {
-    "eslint-plugin-mocha": "^4.7.0"
+    "eslint-plugin-mocha": "^5.0.0"
   }
 }
