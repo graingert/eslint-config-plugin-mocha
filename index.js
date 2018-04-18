@@ -1,4 +1,5 @@
 module.exports = {
+  plugins: ['mocha'],
   rules: {
     'mocha/handle-done-callback': 'error',
     'mocha/max-top-level-suites': 'error',
